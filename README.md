@@ -1,5 +1,5 @@
 <table>
-<tr>
+
   
 <td width="55%">
 
@@ -71,7 +71,7 @@ you@abhiiml --------------------------------------
 </td>
 
 
-</tr>
+
 </table>
 📊 GitHub Stats
 
