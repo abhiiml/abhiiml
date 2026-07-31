@@ -79,10 +79,10 @@ you@abhiiml --------------------------------------
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiiml&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiml&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-## 🔥 Contribution Graph
+🔥 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiiml&theme=tokyo-night)
-### 🌐 Connect with me
+🌐 Connect with me
 
 [LinkedIn](www.linkedin.com/in/abhijitpandey456)
 
