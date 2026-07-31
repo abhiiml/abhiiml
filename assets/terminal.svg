@@ -1,1 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="820"
+    height="760"
+    viewBox="0 0 820 760">
 
+<defs>
+
+<linearGradient id="terminalBG"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="100%">
+
+    <stop offset="0%" stop-color="#161B22"/>
+    <stop offset="100%" stop-color="#0D1117"/>
+
+</linearGradient>
+
+<linearGradient id="titleGradient"
+    x1="0%"
+    y1="0%"
+    x2="100%"
+    y2="0%">
+
+    <stop offset="0%" stop-color="#00E676"/>
+    <stop offset="100%" stop-color="#00C853"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+    <feGaussianBlur
+        stdDeviation="2"
+        result="blur"/>
+
+    <feMerge>
+
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+
+    </feMerge>
+
+</filter>
+
+<style>
+
+.background{
+fill:url(#terminalBG);
+stroke:#30363D;
+stroke-width:2;
+}
+
+.heading{
+fill:url(#titleGradient);
+font-size:24px;
+font-weight:bold;
+font-family:Consolas,Monaco,monospace;
+}
+
+.label{
+fill:#FFB454;
+font-size:18px;
+font-family:Consolas,Monaco,monospace;
+}
+
+.value{
+fill:#58A6FF;
+font-size:18px;
+font-family:Consolas,Monaco,monospace;
+}
+
+.separator{
+stroke:#30363D;
+stroke-width:1;
+}
+
+.small{
+fill:#8B949E;
+font-size:16px;
+font-family:Consolas,Monaco,monospace;
+}
+
+</style>
+
+</defs>
+
+<!-- Terminal Window -->
+
+<rect
+x="5"
+y="5"
+width="810"
+height="750"
+rx="18"
+class="background"/>
+
+<!-- Title Bar -->
+
+<rect
+x="5"
+y="5"
+width="810"
+height="48"
+rx="18"
+fill="#21262D"/>
+
+<circle
+cx="28"
+cy="29"
+r="7"
+fill="#FF5F56"/>
+
+<circle
+cx="50"
+cy="29"
+r="7"
+fill="#FFBD2E"/>
+
+<circle
+cx="72"
+cy="29"
+r="7"
+fill="#27C93F"/>
+
+<text
+x="105"
+y="35"
+fill="#E6EDF3"
+font-size="18"
+font-family="Consolas,Monaco,monospace">
+
+you@abhiiml
+
+</text>
+
+<!-- Copy Button -->
+
+<rect
+x="760"
+y="16"
+width="38"
+height="22"
+rx="6"
+fill="#30363D"/>
+
+<path
+d="M770 21 h10 v10 h-10 z
+M774 17 h10 v10"
+fill="none"
+stroke="#58A6FF"
+stroke-width="1.4"/>
+
+<line
+x1="20"
+y1="60"
+x2="800"
+y2="60"
+class="separator"/>
