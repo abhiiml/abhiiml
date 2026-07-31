@@ -1,8 +1,6 @@
 <table>
 <tr>
   
-<td width="55%">
-  
 ```ansi
                      iI:,"",""",,,,:;!?                
                    l:,,"""",""""",,,,;Il~[             
@@ -43,12 +41,10 @@
 l`'''''''''`^"[ruuuvccvr-I:,""""^^^^^^l-~```^^^"l+[[})|
 `'''''''''''^I1fnunuux}:,"^^```````^^,+-^`````^":Il~~_?
 ```
-</td>
-<td>
+
 <table>
 <tr>
   
-<td width="45%">
   
  ```ansi 
 you@abhiiml --------------------------------------
@@ -76,7 +72,6 @@ you@abhiiml --------------------------------------
 . Learning: .......... Deep Learning
 . Building: .......... AI & Web Projects
   ```
-</td>
 </tr>
 </table>
 ## 📊 GitHub Stats
