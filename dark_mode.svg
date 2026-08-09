@@ -10,36 +10,6 @@
 <circle cx="92" cy="52" r="6" fill="#27c93f"/>
 <text x="112" y="57" font-family="Consolas,monospace" font-size="12" fill="#8b949e">abhiiml@github: ~/README.md</text>
 <g font-family="Consolas,'Courier New',monospace" font-size="15" xml:space="preserve">
-<text x="38" y="116" fill="#e6edf3">                   ::::.::..::::::-</text>
-<text x="38" y="135" fill="#e6edf3">                 :::::.::....:::::::-==</text>
-<text x="38" y="154" fill="#e6edf3">               -:::::..:::......:::::---==--</text>
-<text x="38" y="173" fill="#e6edf3">              ::::::::...:::....::::::-=---::=</text>
-<text x="38" y="192" fill="#e6edf3">             ==::::::::====--:::.:::::-:----::-+</text>
-<text x="38" y="211" fill="#e6edf3">             ::::::::-========--:::::::::----:::+*</text>
-<text x="38" y="230" fill="#e6edf3">           -:::::::-==++=======---:::::::-----::=</text>
-<text x="38" y="249" fill="#e6edf3">          ::::::::---++++======----:::::::=-:-::::</text>
-<text x="38" y="268" fill="#e6edf3">         :::::::===-=+++++===----:::::--:-==--:::</text>
-<text x="38" y="287" fill="#e6edf3">        :::::-::-==++++=---===----::::-=::==--:::</text>
-<text x="38" y="306" fill="#e6edf3">        ::::::-++++++=====-::-----::::--:::+=-:::</text>
-<text x="38" y="325" fill="#e6edf3">       :::::++**+++==----====-::--::::::::=+-:--</text>
-<text x="38" y="344" fill="#e6edf3">       ::.-**+++=====---=*=-==----::::::::-+=---</text>
-<text x="38" y="363" fill="#e6edf3">       :::****+============---=--::::::::::=+-=-</text>
-<text x="38" y="382" fill="#e6edf3">      :::++++==+=======+++======-::::::::::-+-+-</text>
-<text x="38" y="401" fill="#e6edf3">::::::::::-=-:-=======+++++++====-:::::::::::-+-+=</text>
-<text x="38" y="420" fill="#e6edf3">.::::::::.--===-::===+++++++++====--:::::::::-+-++</text>
-<text x="38" y="439" fill="#e6edf3">..::....:.=*+=----:-=++++++++====--::::::::::-+-+</text>
-<text x="38" y="458" fill="#e6edf3">...:.....=+=====-:---=+++++====---:::::::::::-+-+</text>
-<text x="38" y="477" fill="#e6edf3">........--===-=========+++====--:::::::-:::::-+-+</text>
-<text x="38" y="496" fill="#e6edf3">.:.....:=:----===--==========-::..:::::::::::-+=</text>
-<text x="38" y="515" fill="#e6edf3">.......=:.:::::-------------::::...:::::::::::-=++</text>
-<text x="38" y="534" fill="#e6edf3">......-:.....::::::::::.::::::--:::::.::::::-++</text>
-<text x="38" y="553" fill="#e6edf3">.....:-.......-:::---------::-+++-:..:::::::-*+</text>
-<text x="38" y="572" fill="#e6edf3">....:-........+*---------::::+***+:...::::::-+</text>
-<text x="38" y="591" fill="#e6edf3">...:-:.......:**##------::::+*#**=.....:::::=</text>
-<text x="38" y="610" fill="#e6edf3">..:=:........:*#%%%%#+=--+***###+:....::::::+</text>
-<text x="38" y="629" fill="#e6edf3">.:=-:........-###%%%%%#####*###*:....::::::--+*</text>
-<text x="38" y="648" fill="#e6edf3">.=-:.........=###%%%%#####*###*:....:::::::-::=*</text>
-<text x="38" y="667" fill="#e6edf3">:-:..........+########%%#****-........:.:::::-=*</text>
 </g>
 
 <!-- Terminal panel -->
@@ -96,6 +66,37 @@
 <text x="620" y="704" fill="#f0883e">Learning → Building → Improving</text>
 </g>
 
+
+<text x="186.2" y="116" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::.::..::::::-</text>
+<text x="170.6" y="135" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::::.::....:::::::-==</text>
+<text x="155.0" y="154" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">-:::::..:::......:::::---==--</text>
+<text x="147.2" y="173" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::::::...:::....::::::-=---::=</text>
+<text x="139.4" y="192" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">==::::::::====--:::.:::::-:----::-+</text>
+<text x="139.4" y="211" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::::::-========--:::::::::----:::+*</text>
+<text x="123.8" y="230" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">-:::::::-==++=======---:::::::-----::=</text>
+<text x="116.0" y="249" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::::::---++++======----:::::::=-:-::::</text>
+<text x="108.2" y="268" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::::::===-=+++++===----:::::--:-==--:::</text>
+<text x="100.4" y="287" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::::-::-==++++=---===----::::-=::==--:::</text>
+<text x="100.4" y="306" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::::-++++++=====-::-----::::--:::+=-:::</text>
+<text x="92.6" y="325" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::::++**+++==----====-::--::::::::=+-:--</text>
+<text x="92.6" y="344" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::.-**+++=====---=*=-==----::::::::-+=---</text>
+<text x="92.6" y="363" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::****+============---=--::::::::::=+-=-</text>
+<text x="84.8" y="382" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:::++++==+=======+++======-::::::::::-+-+-</text>
+<text x="38.0" y="401" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">::::::::::-=-:-=======+++++++====-:::::::::::-+-+=</text>
+<text x="38.0" y="420" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.::::::::.--===-::===+++++++++====--:::::::::-+-++</text>
+<text x="38.0" y="439" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">..::....:.=*+=----:-=++++++++====--::::::::::-+-+</text>
+<text x="38.0" y="458" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">...:.....=+=====-:---=+++++====---:::::::::::-+-+</text>
+<text x="38.0" y="477" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">........--===-=========+++====--:::::::-:::::-+-+</text>
+<text x="38.0" y="496" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.:.....:=:----===--==========-::..:::::::::::-+=</text>
+<text x="38.0" y="515" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.......=:.:::::-------------::::...:::::::::::-=++</text>
+<text x="38.0" y="534" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">......-:.....::::::::::.::::::--:::::.::::::-++</text>
+<text x="38.0" y="553" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.....:-.......-:::---------::-+++-:..:::::::-*+</text>
+<text x="38.0" y="572" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">....:-........+*---------::::+***+:...::::::-+</text>
+<text x="38.0" y="591" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">...:-:.......:**##------::::+*#**=.....:::::=</text>
+<text x="38.0" y="610" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">..:=:........:*#%%%%#+=--+***###+:....::::::+</text>
+<text x="38.0" y="629" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.:=-:........-###%%%%%#####*###*:....::::::--+*</text>
+<text x="38.0" y="648" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.=-:.........=###%%%%#####*###*:....:::::::-::=*</text>
+<text x="38.0" y="667" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:-:..........+########%%#****-........:.:::::-=*</text>
 <g font-family="Consolas,'Courier New',monospace" font-size="13">
   <path d="M620 716H1142" stroke="#30363d"/>
   <text x="620" y="739" fill="#39ff88">GITHUB STATS</text>
