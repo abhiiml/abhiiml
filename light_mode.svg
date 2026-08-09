@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
-<rect width="1200" height="800" rx="14" fill="#ffffff"/>
-<rect x="8" y="8" width="1184" height="784" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" width="1200" height="820">
+<rect width="1200" height="820" rx="14" fill="#ffffff"/>
+<rect x="8" y="8" width="1184" height="804" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
 
 <!-- ASCII panel -->
-<rect x="28" y="28" width="540" height="704" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="28" width="540" height="760" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="52" cy="52" r="6" fill="#ff5f56"/>
 <circle cx="72" cy="52" r="6" fill="#ffbd2e"/>
 <circle cx="92" cy="52" r="6" fill="#27c93f"/>
@@ -43,7 +43,7 @@
 </g>
 
 <!-- Terminal panel -->
-<rect x="592" y="28" width="580" height="704" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="592" y="28" width="580" height="760" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="616" cy="52" r="6" fill="#ff5f56"/>
 <circle cx="636" cy="52" r="6" fill="#ffbd2e"/>
 <circle cx="656" cy="52" r="6" fill="#27c93f"/>
