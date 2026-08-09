@@ -43,9 +43,9 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-<img src="./assets/terminal.svg" width="100%">
+<img src="./assets/terminal.svg" width="100%" alt="Abhijit Pandey Terminal Profile"/>
 
 </td>
 
