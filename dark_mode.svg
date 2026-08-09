@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+<rect width="1200" height="800" rx="14" fill="#0d1117"/>
+<rect x="8" y="8" width="1184" height="784" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+<!-- ASCII panel -->
+<rect x="28" y="28" width="540" height="704" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="52" cy="52" r="6" fill="#ff5f56"/>
+<circle cx="72" cy="52" r="6" fill="#ffbd2e"/>
+<circle cx="92" cy="52" r="6" fill="#27c93f"/>
+<text x="112" y="57" font-family="Consolas,monospace" font-size="12" fill="#8b949e">abhiiml@github: ~/README.md</text>
+<g font-family="Consolas,'Courier New',monospace" font-size="15" xml:space="preserve">
+<text x="38" y="116" fill="#e6edf3">                   ::::.::..::::::-</text>
+<text x="38" y="135" fill="#e6edf3">                 :::::.::....:::::::-==</text>
+<text x="38" y="154" fill="#e6edf3">               -:::::..:::......:::::---==--</text>
+<text x="38" y="173" fill="#e6edf3">              ::::::::...:::....::::::-=---::=</text>
+<text x="38" y="192" fill="#e6edf3">             ==::::::::====--:::.:::::-:----::-+</text>
+<text x="38" y="211" fill="#e6edf3">             ::::::::-========--:::::::::----:::+*</text>
+<text x="38" y="230" fill="#e6edf3">           -:::::::-==++=======---:::::::-----::=</text>
+<text x="38" y="249" fill="#e6edf3">          ::::::::---++++======----:::::::=-:-::::</text>
+<text x="38" y="268" fill="#e6edf3">         :::::::===-=+++++===----:::::--:-==--:::</text>
+<text x="38" y="287" fill="#e6edf3">        :::::-::-==++++=---===----::::-=::==--:::</text>
+<text x="38" y="306" fill="#e6edf3">        ::::::-++++++=====-::-----::::--:::+=-:::</text>
+<text x="38" y="325" fill="#e6edf3">       :::::++**+++==----====-::--::::::::=+-:--</text>
+<text x="38" y="344" fill="#e6edf3">       ::.-**+++=====---=*=-==----::::::::-+=---</text>
+<text x="38" y="363" fill="#e6edf3">       :::****+============---=--::::::::::=+-=-</text>
+<text x="38" y="382" fill="#e6edf3">      :::++++==+=======+++======-::::::::::-+-+-</text>
+<text x="38" y="401" fill="#e6edf3">::::::::::-=-:-=======+++++++====-:::::::::::-+-+=</text>
+<text x="38" y="420" fill="#e6edf3">.::::::::.--===-::===+++++++++====--:::::::::-+-++</text>
+<text x="38" y="439" fill="#e6edf3">..::....:.=*+=----:-=++++++++====--::::::::::-+-+</text>
+<text x="38" y="458" fill="#e6edf3">...:.....=+=====-:---=+++++====---:::::::::::-+-+</text>
+<text x="38" y="477" fill="#e6edf3">........--===-=========+++====--:::::::-:::::-+-+</text>
+<text x="38" y="496" fill="#e6edf3">.:.....:=:----===--==========-::..:::::::::::-+=</text>
+<text x="38" y="515" fill="#e6edf3">.......=:.:::::-------------::::...:::::::::::-=++</text>
+<text x="38" y="534" fill="#e6edf3">......-:.....::::::::::.::::::--:::::.::::::-++</text>
+<text x="38" y="553" fill="#e6edf3">.....:-.......-:::---------::-+++-:..:::::::-*+</text>
+<text x="38" y="572" fill="#e6edf3">....:-........+*---------::::+***+:...::::::-+</text>
+<text x="38" y="591" fill="#e6edf3">...:-:.......:**##------::::+*#**=.....:::::=</text>
+<text x="38" y="610" fill="#e6edf3">..:=:........:*#%%%%#+=--+***###+:....::::::+</text>
+<text x="38" y="629" fill="#e6edf3">.:=-:........-###%%%%%#####*###*:....::::::--+*</text>
+<text x="38" y="648" fill="#e6edf3">.=-:.........=###%%%%#####*###*:....:::::::-::=*</text>
+<text x="38" y="667" fill="#e6edf3">:-:..........+########%%#****-........:.:::::-=*</text>
+</g>
+
+<!-- Terminal panel -->
+<rect x="592" y="28" width="580" height="704" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="616" cy="52" r="6" fill="#ff5f56"/>
+<circle cx="636" cy="52" r="6" fill="#ffbd2e"/>
+<circle cx="656" cy="52" r="6" fill="#27c93f"/>
+<text x="676" y="57" font-family="Consolas,monospace" font-size="12" fill="#8b949e">you@abhiiml</text>
+
+<!-- copy icon -->
+<g transform="translate(1128 40)" fill="none" stroke="#8b949e" stroke-width="1.7">
+<rect x="5" y="6" width="15" height="14" rx="2"/>
+<rect x="1" y="2" width="15" height="14" rx="2"/>
+</g>
+
+<g font-family="Consolas,'Courier New',monospace" font-size="15">
+<text x="620" y="94" fill="#39ff88">$ whoami</text>
+<text x="620" y="120" fill="#58a6ff">Abhijit Pandey</text>
+
+<text x="620" y="158" fill="#39ff88">$ role</text>
+<text x="620" y="184" fill="#58a6ff">B.Tech CSE (AI/ML)</text>
+
+<text x="620" y="222" fill="#39ff88">$ location</text>
+<text x="620" y="248" fill="#58a6ff">India</text>
+
+<text x="620" y="286" fill="#39ff88">$ ide</text>
+<text x="620" y="312" fill="#58a6ff">VS Code</text>
+
+<text x="620" y="350" fill="#39ff88">$ os</text>
+<text x="620" y="376" fill="#58a6ff">Windows 11</text>
+
+<path d="M620 396H1142" stroke="#30363d"/>
+
+<text x="620" y="426" fill="#39ff88">TECH STACK</text>
+<text x="620" y="452" fill="#f0883e">Languages</text>
+<text x="760" y="452" fill="#58a6ff">Python | C++ | Java | JavaScript</text>
+<text x="620" y="478" fill="#f0883e">AI/ML</text>
+<text x="760" y="478" fill="#58a6ff">TensorFlow | scikit-learn</text>
+<text x="620" y="504" fill="#f0883e">Database</text>
+<text x="760" y="504" fill="#58a6ff">MongoDB | MySQL</text>
+<text x="620" y="530" fill="#f0883e">Tools</text>
+<text x="760" y="530" fill="#58a6ff">Git | GitHub | Linux</text>
+
+<path d="M620 550H1142" stroke="#30363d"/>
+
+<text x="620" y="580" fill="#39ff88">CONTACT</text>
+<text x="620" y="606" fill="#f0883e">Email</text>
+<text x="760" y="606" fill="#58a6ff">abhijitayush456@gmail.com</text>
+<text x="620" y="632" fill="#f0883e">GitHub</text>
+<text x="760" y="632" fill="#58a6ff">github.com/abhiiml</text>
+
+<path d="M620 652H1142" stroke="#30363d"/>
+<text x="620" y="678" fill="#39ff88">STATUS</text>
+<text x="620" y="704" fill="#f0883e">Learning → Building → Improving</text>
+</g>
+
+<g font-family="Consolas,'Courier New',monospace" font-size="13">
+  <path d="M620 716H1142" stroke="#30363d"/>
+  <text x="620" y="739" fill="#39ff88">GITHUB STATS</text>
+  <text x="760" y="739" fill="#f0883e">Repos</text>
+  <text id="repo_data" x="815" y="739" fill="#58a6ff">--</text>
+  <text x="860" y="739" fill="#f0883e">Stars</text>
+  <text id="star_data" x="905" y="739" fill="#58a6ff">--</text>
+  <text x="950" y="739" fill="#f0883e">Commits</text>
+  <text id="commit_data" x="1020" y="739" fill="#58a6ff">--</text>
+  <text x="1060" y="739" fill="#f0883e">Followers</text>
+  <text id="follower_data" x="1140" y="739" text-anchor="end" fill="#58a6ff">--</text>
+</g>
+</svg>
