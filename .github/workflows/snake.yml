@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: abhiiml
@@ -21,8 +21,9 @@ jobs:
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "chore: update contribution snake"
-          add: "assets/*.svg"
+          build_dir: assets
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
