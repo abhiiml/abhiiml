@@ -158,3 +158,304 @@ y1="60"
 x2="800"
 y2="60"
 class="separator"/>
+
+<!-- ABOUT ME -->
+
+<text
+x="28"
+y="100"
+class="heading"
+filter="url(#glow)">
+ABOUT ME
+</text>
+
+<line
+x1="25"
+y1="112"
+x2="795"
+y2="112"
+class="separator"/>
+
+<!-- Name -->
+
+<text
+x="35"
+y="145"
+class="label">
+Name
+</text>
+
+<text
+x="190"
+y="145"
+class="value">
+Abhijit Pandey
+</text>
+
+<!-- Role -->
+
+<text
+x="35"
+y="177"
+class="label">
+Role
+</text>
+
+<text
+x="190"
+y="177"
+class="value">
+B.Tech CSE (AI/ML)
+</text>
+
+<!-- Location -->
+
+<text
+x="35"
+y="209"
+class="label">
+Location
+</text>
+
+<text
+x="190"
+y="209"
+class="value">
+India
+</text>
+
+<!-- IDE -->
+
+<text
+x="35"
+y="241"
+class="label">
+IDE
+</text>
+
+<text
+x="190"
+y="241"
+class="value">
+VS Code
+</text>
+
+<!-- OS -->
+
+<text
+x="35"
+y="273"
+class="label">
+OS
+</text>
+
+<text
+x="190"
+y="273"
+class="value">
+Windows 11
+</text>
+
+<!-- TECH STACK -->
+
+<text
+x="28"
+y="325"
+class="heading"
+filter="url(#glow)">
+TECH STACK
+</text>
+
+<line
+x1="25"
+y1="337"
+x2="795"
+y2="337"
+class="separator"/>
+
+<!-- Languages -->
+
+<text
+x="35"
+y="370"
+class="label">
+Languages
+</text>
+
+<text
+x="190"
+y="370"
+class="value">
+Python | C++ | Java | JavaScript
+</text>
+
+<!-- AI / ML -->
+
+<text
+x="35"
+y="402"
+class="label">
+AI/ML
+</text>
+
+<text
+x="190"
+y="402"
+class="value">
+TensorFlow | scikit-learn
+</text>
+
+<!-- Database -->
+
+<text
+x="35"
+y="434"
+class="label">
+Database
+</text>
+
+<text
+x="190"
+y="434"
+class="value">
+MongoDB | MySQL
+</text>
+
+<!-- Tools -->
+
+<text
+x="35"
+y="466"
+class="label">
+Tools
+</text>
+
+<text
+x="190"
+y="466"
+class="value">
+Git | GitHub | Linux
+</text>
+
+<!-- CONTACT -->
+
+<text
+x="28"
+y="520"
+class="heading"
+filter="url(#glow)">
+CONTACT
+</text>
+
+<line
+x1="25"
+y1="532"
+x2="795"
+y2="532"
+class="separator"/>
+
+<!-- Email -->
+
+<text
+x="35"
+y="565"
+class="label">
+Email
+</text>
+
+<text
+x="190"
+y="565"
+class="value">
+abhijitayush456@gmail.com
+</text>
+
+<!-- GitHub -->
+
+<text
+x="35"
+y="597"
+class="label">
+GitHub
+</text>
+
+<text
+x="190"
+y="597"
+class="value">
+github.com/abhiiml
+</text>
+
+
+<!-- CURRENTLY -->
+
+<text
+x="28"
+y="645"
+class="heading"
+filter="url(#glow)">
+CURRENTLY
+</text>
+
+<line
+x1="25"
+y1="657"
+x2="795"
+y2="657"
+class="separator"/>
+
+<!-- Learning -->
+
+<text
+x="35"
+y="690"
+class="label">
+Learning
+</text>
+
+<text
+x="190"
+y="690"
+class="value">
+Deep Learning
+</text>
+
+<!-- Building -->
+
+<text
+x="35"
+y="722"
+class="label">
+Building
+</text>
+
+<text
+x="190"
+y="722"
+class="value">
+AI &amp; Web Projects
+</text>
+
+<!-- Terminal Prompt -->
+
+<text
+x="35"
+y="748"
+class="small">
+abhi@abhiiml:~$
+</text>
+
+<rect
+x="180"
+y="733"
+width="9"
+height="18"
+fill="#58A6FF">
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+</rect>
+
+</svg>
