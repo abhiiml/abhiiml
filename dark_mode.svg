@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" width="1200" height="820">
-<rect width="1200" height="820" rx="14" fill="#0d1117"/>
-<rect x="8" y="8" width="1184" height="804" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect width="1200" height="820" rx="14" fill="#0d1117" />
+<rect x="8" y="8" width="1184" height="804" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2" />
 
-<!-- ASCII panel -->
-<rect x="28" y="28" width="540" height="760" rx="10" fill="#161b22" stroke="#30363d"/>
-<circle cx="52" cy="52" r="6" fill="#ff5f56"/>
-<circle cx="72" cy="52" r="6" fill="#ffbd2e"/>
-<circle cx="92" cy="52" r="6" fill="#27c93f"/>
+
+<rect x="28" y="28" width="540" height="760" rx="10" fill="#161b22" stroke="#30363d" />
+<circle cx="52" cy="52" r="6" fill="#ff5f56" />
+<circle cx="72" cy="52" r="6" fill="#ffbd2e" />
+<circle cx="92" cy="52" r="6" fill="#27c93f" />
 <text x="112" y="57" font-family="Consolas,monospace" font-size="12" fill="#8b949e">abhiiml@github: ~/README.md</text>
 <g font-family="Consolas,'Courier New',monospace" font-size="15" xml:space="preserve">
 </g>
 
-<!-- Terminal panel -->
-<rect x="592" y="28" width="580" height="760" rx="10" fill="#161b22" stroke="#30363d"/>
-<circle cx="616" cy="52" r="6" fill="#ff5f56"/>
-<circle cx="636" cy="52" r="6" fill="#ffbd2e"/>
-<circle cx="656" cy="52" r="6" fill="#27c93f"/>
+
+<rect x="592" y="28" width="580" height="760" rx="10" fill="#161b22" stroke="#30363d" />
+<circle cx="616" cy="52" r="6" fill="#ff5f56" />
+<circle cx="636" cy="52" r="6" fill="#ffbd2e" />
+<circle cx="656" cy="52" r="6" fill="#27c93f" />
 <text x="676" y="57" font-family="Consolas,monospace" font-size="12" fill="#8b949e">you@abhiiml</text>
 
-<!-- copy icon -->
+
 <g transform="translate(1128 40)" fill="none" stroke="#8b949e" stroke-width="1.7">
-<rect x="5" y="6" width="15" height="14" rx="2"/>
-<rect x="1" y="2" width="15" height="14" rx="2"/>
+<rect x="5" y="6" width="15" height="14" rx="2" />
+<rect x="1" y="2" width="15" height="14" rx="2" />
 </g>
 
 <g font-family="Consolas,'Courier New',monospace" font-size="15">
@@ -41,7 +41,7 @@
 <text x="620" y="350" fill="#39ff88">$ os</text>
 <text x="620" y="376" fill="#58a6ff">Windows 11</text>
 
-<path d="M620 396H1142" stroke="#30363d"/>
+<path d="M620 396H1142" stroke="#30363d" />
 
 <text x="620" y="426" fill="#39ff88">TECH STACK</text>
 <text x="620" y="452" fill="#f0883e">Languages</text>
@@ -53,7 +53,7 @@
 <text x="620" y="530" fill="#f0883e">Tools</text>
 <text x="760" y="530" fill="#58a6ff">Git | GitHub | Linux</text>
 
-<path d="M620 550H1142" stroke="#30363d"/>
+<path d="M620 550H1142" stroke="#30363d" />
 
 <text x="620" y="580" fill="#39ff88">CONTACT</text>
 <text x="620" y="606" fill="#f0883e">Email</text>
@@ -61,7 +61,7 @@
 <text x="620" y="632" fill="#f0883e">GitHub</text>
 <text x="760" y="632" fill="#58a6ff">github.com/abhiiml</text>
 
-<path d="M620 652H1142" stroke="#30363d"/>
+<path d="M620 652H1142" stroke="#30363d" />
 <text x="620" y="678" fill="#39ff88">STATUS</text>
 <text x="620" y="704" fill="#f0883e">Learning → Building → Improving</text>
 </g>
@@ -98,15 +98,15 @@
 <text x="38.0" y="648" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">.=-:.........=###%%%%#####*###*:....:::::::-::=*</text>
 <text x="38.0" y="667" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#e6edf3">:-:..........+########%%#****-........:.:::::-=*</text>
 <g font-family="Consolas,'Courier New',monospace" font-size="13">
-  <path d="M620 716H1142" stroke="#30363d"/>
+  <path d="M620 716H1142" stroke="#30363d" />
   <text x="620" y="739" fill="#39ff88">GITHUB STATS</text>
   <text x="760" y="739" fill="#f0883e">Repos</text>
-  <text id="repo_data" x="815" y="739" fill="#58a6ff">--</text>
+  <text id="repo_data" x="815" y="739" fill="#58a6ff">11</text>
   <text x="860" y="739" fill="#f0883e">Stars</text>
-  <text id="star_data" x="905" y="739" fill="#58a6ff">--</text>
+  <text id="star_data" x="905" y="739" fill="#58a6ff">0</text>
   <text x="950" y="739" fill="#f0883e">Commits</text>
-  <text id="commit_data" x="1020" y="739" fill="#58a6ff">--</text>
+  <text id="commit_data" x="1020" y="739" fill="#58a6ff">112</text>
   <text x="1060" y="739" fill="#f0883e">Followers</text>
-  <text id="follower_data" x="1140" y="739" text-anchor="end" fill="#58a6ff">--</text>
+  <text id="follower_data" x="1140" y="739" text-anchor="end" fill="#58a6ff">1</text>
 </g>
 </svg>
