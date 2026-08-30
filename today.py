@@ -21,11 +21,14 @@ query($login:String!) {
     contributionsCollection {
       totalCommitContributions
       restrictedContributionsCount
-      totalContributions
+      contributionCalendar {
+        totalContributions
+      }
     }
   }
 }
 """
+
 
 def github_data():
     r = requests.post(
@@ -40,22 +43,31 @@ def github_data():
         raise RuntimeError(data["errors"])
     return data["data"]["user"]
 
+
 def replace(root, element_id, value):
     for el in root.iter():
         if el.get("id") == element_id:
             el.text = str(value)
             return
 
+
 def update_svg(filename, data):
     tree = ET.parse(filename)
     root = tree.getroot()
     ET.register_namespace("", "http://www.w3.org/2000/svg")
+
     replace(root, "repo_data", data["repositories"]["totalCount"])
     replace(root, "star_data", sum(n["stargazerCount"] for n in data["repositories"]["nodes"]))
     replace(root, "follower_data", data["followers"]["totalCount"])
     replace(root, "commit_data", data["contributionsCollection"]["totalCommitContributions"])
-    replace(root, "contrib_data", data["contributionsCollection"]["totalContributions"])
+    replace(
+        root,
+        "contrib_data",
+        data["contributionsCollection"]["contributionCalendar"]["totalContributions"],
+    )
+
     tree.write(filename, encoding="utf-8", xml_declaration=True)
+
 
 if __name__ == "__main__":
     data = github_data()
