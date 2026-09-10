@@ -101,11 +101,11 @@
   <path d="M620 716H1142" stroke="#30363d" />
   <text x="620" y="739" fill="#39ff88">GITHUB STATS</text>
   <text x="760" y="739" fill="#f0883e">Repos</text>
-  <text id="repo_data" x="815" y="739" fill="#58a6ff">12</text>
+  <text id="repo_data" x="815" y="739" fill="#58a6ff">13</text>
   <text x="860" y="739" fill="#f0883e">Stars</text>
   <text id="star_data" x="905" y="739" fill="#58a6ff">0</text>
   <text x="950" y="739" fill="#f0883e">Commits</text>
-  <text id="commit_data" x="1020" y="739" fill="#58a6ff">129</text>
+  <text id="commit_data" x="1020" y="739" fill="#58a6ff">130</text>
   <text x="1060" y="739" fill="#f0883e">Followers</text>
   <text id="follower_data" x="1140" y="739" text-anchor="end" fill="#58a6ff">1</text>
 </g>
